@@ -1,0 +1,17 @@
+{
+  "defaultError": "Ocorreu um erro. Por favor, tente novamente. ",
+  "distanceToOffice": " km do escritório!",
+  "fieldsIncorrect": "Os dados inseridos estão incorretos. ",
+  "fieldsInvalid": "Os dados inseridos são inválidos. ",
+  "fieldsRequired": "É obrigatório preencher todos os campos. ",
+  "funQuote": "Fun Quotes",
+  "likedQuotes": "Liked Quotes",
+  "locationServicesDenied": "Location permissions are denied.",
+  "locationServicesDisable": "Location services are disabled.",
+  "locationServicesPermanentlyDenied": "Location permissions are permanently denied, we cannot request permissions.",
+  "noRatedQuotes": "Não existem qotes",
+  "pageNotFound": "Página não encontrada.",
+  "serverError": "Ocorreu um erro no servidor. ",
+  "tags": "Tags",
+  "youAre": "Você está"
+}
