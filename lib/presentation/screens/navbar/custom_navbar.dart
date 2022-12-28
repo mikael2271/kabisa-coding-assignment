@@ -52,7 +52,7 @@ class _NavbarPageState extends State<NavbarPage> {
         ),
       ),
       bottomNavigationBar: SizedBox(
-        height: 70,
+        height: 85,
         child: Theme(
           data: ThemeData(
             splashColor: ColorList[ColorsEnum.transparent],
